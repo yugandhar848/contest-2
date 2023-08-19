@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+}
+
+p{
+
+    background-color: black;
+    color: beige;
+    border:10px solid black;
+    text-align:left;
+}
+h5{
+   
+    text-align:right; 
+    background-color: black;
+    color: beige;
+    border:10px solid black;
+}
+
+h3{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.yuga{
+    width: 1000px;
+    height: 500px;
+
+}
+input{
+    height: 30px;
+    width: 1000px;
+}
+#hanuma{
+    font-size:20px;
+}
